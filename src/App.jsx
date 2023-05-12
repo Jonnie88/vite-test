@@ -1,8 +1,9 @@
-import HelloWorld from "./components/HelloWorld";
+import Intro from "./components/Intro";
+import "./reset.css";
 function App() {
   return (
     <>
-      <HelloWorld />
+      <Intro />
     </>
   );
 }
